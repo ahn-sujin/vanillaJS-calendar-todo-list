@@ -9,7 +9,7 @@
 * todolist 삭제 
 * localstorage 연동
 
-![image](img/caleanda.png) 
+![image](img/caleandar.PNG) 
 
 
 ## 참고
