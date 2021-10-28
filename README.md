@@ -5,8 +5,8 @@
 
 ## 기능 
 * 캘린더 구현 
-* todolist 입력 
-* todolist 삭제 
+* 날짜별 todolist 입력 
+* 날짜별 todolist 삭제 
 * localstorage 연동
 
 ![image](img/caleandar.PNG) 
