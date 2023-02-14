@@ -19,7 +19,7 @@
 ![image](img/caleandar.PNG)
 
 
-[결과물 보러가기](https://ahn-sujin.github.io/VanillaJS_CalendarToDoList/html/calendar02.html)
+[결과물 보러가기](https://ahn-sujin.github.io/vanillaJS-calendar-todo-list/html/calendar02.html)
 
 <br><br>
 
